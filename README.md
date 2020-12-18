@@ -1,5 +1,5 @@
 
-<h3 align="center">Hello there, I'm Issa </h3><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="36px">
+<h3 align="center">Hello there, I'm Issa 👋 </h3>
 <h5 align="center">
 </h5>
 <p align="center">
