@@ -7,11 +7,9 @@
 <p align="center">
   Hi, I'm Issa Sangare, a Full Stack Software Engineer from North Bethesda!
   <br>
-  <br>
   🎓 I graduated from Flatiron School's full stack software engineering coding bootcamp.
   <br>
   💻 I love writing code and creating useful web applications.
-  <br>
   <br>
   📫 How to reach me: <a href="mailto: issabmsangare@gmail.com">issabmsangare@gmail.com</a>
 </p>
