@@ -1,9 +1,7 @@
 
 <h3 align="center">Hello there, I'm Issa 👋</h3>
 <h5 align="center">
-            
 </h5>
-<br>
 <p align="center">
   Hi, I'm Issa Sangare, a Full Stack Software Engineer from North Bethesda!
   <br>
