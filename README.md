@@ -36,5 +36,18 @@
   <code><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></code>
 
 <hr>
+<h3 align="center">My Latest Blog Posts</h3> 
+
+<!-- BLOG-POST-LIST:START -->
+- [Understanding the basics of Command Line Interface (CLI)](https://issabmsangare.medium.com/understanding-the-basics-of-command-line-interface-cli-de774f73bf6)
+- [jQuery, Write Less & Do More](https://issabmsangare.medium.com/jquery-write-less-do-more-4f3d4a347e37)
+- [React-Redux](https://issabmsangare.medium.com/react-redux-d6a88f99adff)
+- [Strict vs Loose equality in JavaScript](https://issabmsangare.medium.com/strict-vs-loose-equality-in-javascript-3b9ef876766b)
+- [React Hooks (useState)](https://issabmsangare.medium.com/react-hook-usestate-b60199fe5ee4)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [click for more blog posts...](https://issabmsangare.medium.com/)
+<br />
+<hr>
 
 ### Thanks for visiting! ✌
