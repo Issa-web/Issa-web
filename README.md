@@ -39,7 +39,7 @@
 <h3 align="center">My Latest Blog Posts</h3> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Command Line Interface (CLI)](https://issabmsangare.medium.com/understanding-the-basics-of-command-line-interface-cli-de774f73bf6)
+- [How to use the Command Line Interface (CLI)](https://issabmsangare.medium.com/how-to-use-the-command-line-interface-cli-9c8b70e568e)
 - [jQuery, Write Less & Do More](https://issabmsangare.medium.com/jquery-write-less-do-more-4f3d4a347e37)
 - [React-Redux](https://issabmsangare.medium.com/react-redux-d6a88f99adff)
 - [Strict vs Loose equality in JavaScript](https://issabmsangare.medium.com/strict-vs-loose-equality-in-javascript-3b9ef876766b)
