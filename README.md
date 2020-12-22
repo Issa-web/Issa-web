@@ -49,6 +49,8 @@
 ➡️ [click for more blog posts...](https://issabmsangare.medium.com/)
 <br />
 <hr>
-<a href="https://warm-shore-88546.herokuapp.com/"><h3 align="center">Sign up to my Newsletter</h3>  </a>
+  
+<a href="https://warm-shore-88546.herokuapp.com/"><h3 align="center">Sign up to my Newsletter</h3></a>
+  
 <hr>
 <h3 align="center">Thanks for visiting ✌</h3> 
