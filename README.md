@@ -40,6 +40,7 @@
 <h3 align="center">My Latest Blog Posts</h3> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Version Control System(VCS) & Git (local repo)](https://issabmsangare.medium.com/understanding-version-control-system-vcs-git-local-repo-d1be01808cc1)
 - [How to use the Command Line Interface (CLI)](https://issabmsangare.medium.com/how-to-use-the-command-line-interface-cli-9c8b70e568e)
 - [jQuery, Write Less & Do More](https://issabmsangare.medium.com/jquery-write-less-do-more-4f3d4a347e37)
 - [React-Redux](https://issabmsangare.medium.com/react-redux-d6a88f99adff)
