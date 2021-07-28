@@ -3,7 +3,7 @@
 <h5 align="center">
 </h5>
 <p align="center">
-  Hi, I'm Issa Sangare, a Full Stack Software Engineer & Author from North Bethesda!
+  Hi, I'm Issa Sangare, a Full Stack Software Engineer and Author from North Bethesda!
   <br>
   🎓 I graduated from Flatiron School's full stack software engineering coding bootcamp.
   <br>
